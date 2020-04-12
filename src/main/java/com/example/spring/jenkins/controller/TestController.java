@@ -21,7 +21,7 @@ public class TestController {
     @RequestMapping("test2")
     public Object test2(){
 
-        return "很高兴部署成功了122226661111";
+        return "很高兴部署成功了";
     }
     @RequestMapping("test3")
     public Object test3(){
