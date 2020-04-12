@@ -23,4 +23,9 @@ public class TestController {
 
         return "很高兴部署成功了122226661111";
     }
+    @RequestMapping("test3")
+    public Object test3(){
+
+        return "23456胜多负少的股份的说法";
+    }
 }
