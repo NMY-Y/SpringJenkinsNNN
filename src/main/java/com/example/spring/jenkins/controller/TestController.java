@@ -26,6 +26,6 @@ public class TestController {
     @RequestMapping("test3")
     public Object test3(){
 
-        return "23456胜多负少的股份的说法";
+        return "23456胜多负少的股份的说法 ";
     }
 }
