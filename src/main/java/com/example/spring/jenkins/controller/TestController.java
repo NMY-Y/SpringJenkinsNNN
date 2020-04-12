@@ -18,4 +18,9 @@ public class TestController {
         list.add("444");
         return list;
     }
+    @RequestMapping("test2")
+    public Object test2(){
+
+        return "很高兴部署成功了";
+    }
 }
